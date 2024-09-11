@@ -21,3 +21,20 @@ These are two humorous quotes by *Mark Twain*:
    
  ```I have never let my schooling interfere with my education.```
 
+ ***
+## Snippet of Code
+This example Node.js code creates an empty file using the open method
+
+```const fileSystem = require('fs');
+
+const createFile = fileName => {
+	fileSystem.open(fileName, 'w', error => {
+		if (error) throw error;
+		console.log('Saved!');
+	});
+};
+```
+
+Reference of the code [Tutorial](https://code.pieces.app/collections/node-js)
+
+
