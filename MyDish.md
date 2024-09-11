@@ -13,4 +13,11 @@ Here’s a list of restaurants, including their names, locations, and reasons wh
 | Bademiya | Known for its street-style kebabs and late-night dining | Mumbai, Maharashtra|
 | Ohri's Gufaa | Unique cave-themed ambiance with excellent Mughlai dishes | Hyderabad, Telangana|
 
+***
+## Humorous Quotes
+These are two humorous quotes by *Mark Twain*:
+
+ ```The best way to cheer yourself up is to try to cheer somebody else up.```
+   
+ ```I have never let my schooling interfere with my education.```
 
