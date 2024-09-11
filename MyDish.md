@@ -3,3 +3,14 @@ Chicken 65 is a spicy and flavorful South Indian fried chicken dish, typically m
 Here's a picture of a chicken cheese pizza
 
 ![image](download.jpg)
+
+## Recommended Restaurants
+Here’s a list of restaurants, including their names, locations, and reasons why they’re worth visiting:
+| Restaurant Name | Reason for Recommendation | Location |
+| --- | :--- | --- |
+| Saravana Bhavan | Famous for authentic South Indian vegetarian dishes | Chennai, Tamil Nadu|
+| Indian Accent | Modern Indian cuisine with innovative and unique flavors | New Delhi, India|
+| Bademiya | Known for its street-style kebabs and late-night dining | Mumbai, Maharashtra|
+| Ohri's Gufaa | Unique cave-themed ambiance with excellent Mughlai dishes | Hyderabad, Telangana|
+
+
